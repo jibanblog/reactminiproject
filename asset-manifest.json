@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reactminiproject/static/css/main.cb0a773c.chunk.css",
-    "main.js": "/reactminiproject/static/js/main.bffe8dc2.chunk.js",
-    "main.js.map": "/reactminiproject/static/js/main.bffe8dc2.chunk.js.map",
+    "main.js": "/reactminiproject/static/js/main.5f172ae5.chunk.js",
+    "main.js.map": "/reactminiproject/static/js/main.5f172ae5.chunk.js.map",
     "runtime-main.js": "/reactminiproject/static/js/runtime-main.4302bf67.js",
     "runtime-main.js.map": "/reactminiproject/static/js/runtime-main.4302bf67.js.map",
     "static/js/2.19ae0534.chunk.js": "/reactminiproject/static/js/2.19ae0534.chunk.js",
     "static/js/2.19ae0534.chunk.js.map": "/reactminiproject/static/js/2.19ae0534.chunk.js.map",
     "index.html": "/reactminiproject/index.html",
-    "precache-manifest.3fb3885800be35f85310b180b5347b2a.js": "/reactminiproject/precache-manifest.3fb3885800be35f85310b180b5347b2a.js",
+    "precache-manifest.176cfb1da9db4db1a6b8ef51f4afc447.js": "/reactminiproject/precache-manifest.176cfb1da9db4db1a6b8ef51f4afc447.js",
     "service-worker.js": "/reactminiproject/service-worker.js",
     "static/css/main.cb0a773c.chunk.css.map": "/reactminiproject/static/css/main.cb0a773c.chunk.css.map",
     "static/js/2.19ae0534.chunk.js.LICENSE.txt": "/reactminiproject/static/js/2.19ae0534.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4302bf67.js",
     "static/js/2.19ae0534.chunk.js",
     "static/css/main.cb0a773c.chunk.css",
-    "static/js/main.bffe8dc2.chunk.js"
+    "static/js/main.5f172ae5.chunk.js"
   ]
 }
