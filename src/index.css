@@ -28,9 +28,6 @@ body{
   justify-content: center;
 }
 
-.img_div img{
-  margin: 0px 10px;
-}
 
 #main{
   height: 100vh;
