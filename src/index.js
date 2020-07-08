@@ -35,8 +35,8 @@ const links = 'https://jibanblog.github.io/rainbow.github.io/index.html';
 ReactDOM.render(
   <>
   <h1 className="heading"> {`Hello, My name is ${fname} ${lname}`} </h1>
-  <p style={{color: 'green', textAlign: 'center'}}> {`Todat's Date is ${now.toLocalDateString()}`} </p>
-  <p style={{color:'green', textAlign: 'center', marginBottom:'20px'}}> {`Current Time is ${now.toLocalTimeString()} `} </p> 
+  <p style={{color: 'green', textAlign: 'center'}}> {`Today's Date is ${now.toLocaleDateString()}`} </p>
+  <p style={{color:'green', textAlign: 'center', marginBottom:'20px'}}> {`Current Time is ${now.toLocaleTimeString()} `} </p> 
   <h2 contentEditable="true" style={{color: 'navy', textAlign: 'center', marginBottom:'20px'}}> Hello World </h2>
   <a href={links} target="_blank" rel="noopener noreferrer" >
   <img src="./orisa2.jpg" alt="odishaImage" height="200px" width="400px" />
