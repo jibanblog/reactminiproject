@@ -40,10 +40,13 @@
   height: 50px;
   width: 250px;
   display: flex;
-  background-color: sandybrown;
+  justify-content: center;
+  align-items: center;
   position: absolute;
-  left: 500px;
+  left: 200px;
   top: 300px;
+
+  background-color: sandybrown;
   border-radius: 15px;
 
 }
