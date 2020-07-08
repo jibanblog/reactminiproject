@@ -11,7 +11,7 @@ const img3 = './chilika_lake.jpg';
 const img4 = './lord_jagannath.jpg';
 const links = 'https://jibanblog.github.io/rainbow.github.io/index.html';
 const styleObj = {
-  margin: '20px 200px',
+  margin: '20px 100px',
   position: 'relative'
 };
 
