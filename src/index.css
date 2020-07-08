@@ -23,11 +23,6 @@ body{
 }
 
 
-.img_div{
-  display: flex;
-  justify-content: center;
-}
-
 
 #main{
   height: 100vh;
