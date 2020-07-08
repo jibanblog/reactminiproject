@@ -10,10 +10,7 @@ const img2 = './konark-puri.jpg';
 const img3 = './chilika_lake.jpg';
 const img4 = './lord_jagannath.jpg';
 const links = 'https://jibanblog.github.io/rainbow.github.io/index.html';
-const styleObj = {
-  margin: '20px 5px',
-  position: 'relative'
-};
+
 
  let currDate = new Date();
  let currTime = currDate.getHours();
@@ -42,7 +39,7 @@ ReactDOM.render(
   <p style={{color:'green', textAlign: 'center', marginBottom:'20px'}}> {`Current Time is ${now.getHours() + ":" + now.getMinutes() + ":" + now.getSeconds()} `} </p> 
   <h2 contentEditable="true" style={{color: 'navy', textAlign: 'center', marginBottom:'20px'}}> Hello World </h2>
   <a href={links} target="_blank" rel="noopener noreferrer" >
-  <img src="./orisa2.jpg" alt="odishaImage" height="200px" width="500px" style={styleObj} />
+  <img src="./orisa2.jpg" alt="odishaImage" height="200px" width="400px" />
   </a>
   <br></br>
   <div className="img_div">
